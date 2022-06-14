@@ -30,7 +30,7 @@
                                   class="form-control" name="password" required autocomplete="off">
                               </div>
                               <div class="form-group">
-                               <input name="" id="" class="btn btn-primary" type="submit" value="Sign Up">
+                               <input name="" id="" class="btn btn-primary" type="submit" value="Sign In">
                               </div>
                               <small>Belum Punya Akun? <a href="register">Register</a> sekarang</small>
                           </form>

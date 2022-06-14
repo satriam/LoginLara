@@ -34,6 +34,6 @@ class AuthController extends Controller
         'password' => $request->password
     ]);
 
-    return redirect('/dashboard');
+    return redirect('/user');
     }
 }
